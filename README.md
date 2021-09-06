@@ -25,6 +25,4 @@
 3. cd ConquerSquad
 4. truffle compile
 5. truffle migrate
-6. cd client && npm run start
-
-项目成功启动后，则前端只需要编写client里面的代码即可
+6. cd client && npm run start     //yarn会有bug，我也不知道
