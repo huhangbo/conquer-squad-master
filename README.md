@@ -4,7 +4,7 @@
 
 [Ganache | Truffle Suite](https://www.trufflesuite.com/ganache) 
 
-## Matemask插件（谷歌/Edge）
+## Matemask插件（Chrome/Edge/Firefox）
 
 ## nodejs@14.17.15 npm@6.14.11
 
